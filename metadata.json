@@ -1,0 +1,6 @@
+{
+  "name": "Lithium Calculator By Han Win",
+  "description": "A professional-grade Lithium-Ion battery calculator that synchronizes voltage, capacity, and energy data with intelligent state-of-charge estimation and visual discharge curves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
